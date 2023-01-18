@@ -58,3 +58,4 @@ Resultado
 /home/username/dotnet-files/stores/203/sales.json
 /home/username/dotnet-files/stores/204/sales.json
 ```
+[![rutasdearchivo-net.png](https://i.postimg.cc/SsZ5xRNj/rutasdearchivo-net.png)](https://postimg.cc/qh3QmkKd)
